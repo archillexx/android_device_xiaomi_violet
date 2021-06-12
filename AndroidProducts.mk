@@ -15,9 +15,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lineage_violet.mk
+    $(LOCAL_DIR)/carbon_violet.mk
 
 COMMON_LUNCH_CHOICES := \
-    lineage_violet-user \
-    lineage_violet-userdebug \
-    lineage_violet-eng
+    carbon_violet-user \
+    carbon_violet-userdebug \
+    carbon_violet-eng
